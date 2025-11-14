@@ -24,9 +24,8 @@ Average Bill Amount: $2.76K
 
 Highest Treatment Cost: $4.85K
 
-📸 Screenshot to add:
-➡️ Add a screenshot of your Revenue KPI section
-Place filename: screenshots/financial_kpi.png
+![Alt Text](screenshots/financial_kpi.png)
+
 
 2. Patient & Appointment Activity
 
@@ -38,34 +37,34 @@ Completion Rate: 25%
 
 No-show Rate: 25%
 
-📸 Screenshot to add:
-➡️ Add a screenshot of Patients + Appointment KPIs
-Place filename: screenshots/patient_kpis.png
+![Alt Text](screenshots/patient_kpis.png)
 
 3. Core Visualizations
 A. Appointments Over Time (Area Chart)
 
 Shows how appointment volume changes month-to-month.
 
-📸 Screenshot: screenshots/appointments_over_time.png
+![Alt Text](screenshots/appointments_over_time.png)
 
 B. Revenue by Payment Method & Status (Stacked Bar Chart)
 
 Breakdown of Cash, Insurance, and Credit Card payments categorized by Paid, Pending, and Failed.
 
-📸 Screenshot: screenshots/payment_method_status.png
+![Alt Text](screenshots/payment_method_status.png)
+
 
 C. Appointment Status Distribution (Donut Chart)
 
 Visual distribution of Completed, Scheduled, Cancelled, and No-Show appointments.
 
 📸 Screenshot: screenshots/status_distribution.png
+![Alt Text](screenshots/status_distribution.png)
 
 D. Top Doctor Analysis
 
 Showcases the doctor with the highest number of completed appointments (e.g., Linda Brown – 4 Completed Appointments)
+![Alt Text](screenshots/top_doctor.png)
 
-📸 Screenshot: screenshots/top_doctor.png
 
 4. Interactive Slicers
 
@@ -76,8 +75,8 @@ Timeline slicer (filter date range)
 Doctor slicer
 
 Treatment Type slicer (MRI, X-Ray, Physiotherapy, ECG, etc.)
+![Alt Text](screenshots/slicers.png)
 
-📸 Screenshot: screenshots/slicers.png
 
 🛠 Technical Requirements
 
@@ -122,8 +121,8 @@ Dim_Patient
 Dim_Treatment
 
 Dim_Date
+![Alt Text](screenshots/model_view.png)
 
-📸 Screenshot: screenshots/model_view.png
 
 Data Source (Example):
 https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset
