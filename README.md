@@ -88,7 +88,7 @@ Power BI Pro/Premium only if you want to publish and share online
 
 🚀 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [](https://github.com/rajsolkar/Power-Bi-Annual-Hospital-Dasboard)
 
 2. Open the Dashboard
 
