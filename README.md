@@ -86,24 +86,6 @@ Power BI Desktop (Free)
 
 Power BI Pro/Premium only if you want to publish and share online
 
-🚀 Setup Instructions
-1. Clone the Repository
-git clone [](https://github.com/rajsolkar/Power-Bi-Annual-Hospital-Dasboard)
-
-2. Open the Dashboard
-
-Open the Power BI file:
-
-hospital.pbix
-
-3. (If needed) Update File Paths
-
-If prompted:
-
-Go to
-File → Options & Settings → Data Source Settings
-and update the data source paths.
-
 🧱 Data Model
 
 This project uses a Star Schema:
