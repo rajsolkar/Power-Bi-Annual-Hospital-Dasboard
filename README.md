@@ -50,14 +50,14 @@ B. Revenue by Payment Method & Status (Stacked Bar Chart)
 
 Breakdown of Cash, Insurance, and Credit Card payments categorized by Paid, Pending, and Failed.
 
-![Alt Text](screenshots/payment_method_status.png)
+![Alt Text](screenshots/payment_metho_status.png)
 
 
 C. Appointment Status Distribution (Donut Chart)
 
 Visual distribution of Completed, Scheduled, Cancelled, and No-Show appointments.
 
-📸 Screenshot: screenshots/status_distribution.png
+
 ![Alt Text](screenshots/status_distribution.png)
 
 D. Top Doctor Analysis
